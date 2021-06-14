@@ -1,0 +1,26 @@
+body{
+    background-size: cover ;
+}
+
+.header{
+  width: 100%;
+  margin-top: 0%;
+  font-size: 23px;
+}
+
+.copy_right_footer{
+    width: 100%;
+    background-color: black;
+    color: blanchedalmond;
+    line-height: 3;
+    bottom: 0;
+    position: fixed;
+}
+
+canvas{
+    border-radius: 20px;
+    
+    border: white 3px ridge;
+    box-shadow: 5px 5px 18px grey;
+
+}
